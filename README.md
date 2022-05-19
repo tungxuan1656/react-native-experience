@@ -1,1 +1,67 @@
 # react-native-experience
+
+List of tutorial RN: https://github.com/hayanisaid/React-Native-developer-roadmap
+- [x] Javascript code: https://reactnative.dev/docs/javascript-environment
+- [x] Javascript jsdoc: https://jsdoc.app/tags-param.html
+- [x] State and life cycle: https://github.com/huongnguyenvan/react-native
+- [x] Function component, class component: https://viblo.asia/p/react-js-hieu-ve-functional-va-class-components-Qbq5QpkRlD8
+- [x] UI
+    - [x] Base components: View, Text, TextInput, Button,...
+    - [x] Hook
+        - [x] Basic hook: useState, useEffect, useCallback, useMemo, useContext, useRef: https://reactjs.org/docs/hooks-reference.html
+        - [x] Lib hook: useSelector, useTranslation,...
+        - [x] Custom hook: https://reactjs.org/docs/hooks-custom.html
+    - [x] Design
+        - [x] Style
+        - [x] Flexbox: https://reactnative.dev/docs/flexbox
+            - [x] Flex, FlexShink, FlexGrow
+    - [x] Navigation Screens
+        - [x] Navigator
+        - [x] BottomTabs
+        - [x] SubTabs
+    - [x] Animation
+        - [x] Reanimated v2
+    - [x] Gesture Responder
+    - [x] Photo picker, Camera
+    - [x] ActionSheet, Toast, Alert, InputAlert, Spinner
+- [x] Permissions
+- [x] Redux
+    - [x] Redux thunk
+    - [x] Redux saga
+- [x] Storage
+    - [x] Async Storage
+    - [x] Redux persist
+- [x] Community server
+    - [x] API RESTful
+    - [x] Socket
+- [x] Firebase
+    - [x] Authentication: Email, Apple, Facebook, Goolge, Phone
+    - [x] Remote Config
+    - [x] Analytics
+    - [x] Crashlytics
+    - [x] Notification
+    - [-] Deep Linking/Dynamic Link: Cần phải có website
+- [x] Google maps
+- [ ] Native Modules
+    - [x] iOS
+    - [ ] Android
+- [x] Codepush
+- [ ] Performance
+    - [x] Console.log in Production mode
+    - [x] Flatlist getItemLayout, key or keyExtractor
+    - [x] Animation
+    - [x] Larger images
+    - [x] PureComponents
+- [ ] Build SDK
+    - [x] iOS
+    - [ ] Android
+- [x] Deploy and publishing
+    - [x] AppStore
+    - [x] Google Play
+- [ ] ADVANCE
+  - [ ] Device Sensor
+  - [ ] Widget
+  - [ ] AI
+      - [ ] Coreml - native
+      - [ ] Tflite
+      - [ ] Tensorflow javascript
