@@ -46,7 +46,7 @@ List of tutorial RN: https://github.com/hayanisaid/React-Native-developer-roadma
     - ✅ iOS
     - ⛔️ Android
 - ✅ Codepush
-- ⛔️ Performance
+- ✅ Performance
     - ✅ Console.log in Production mode
     - ✅ Flatlist getItemLayout, key or keyExtractor
     - ✅ Animation
