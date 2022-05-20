@@ -1,14 +1,14 @@
 # react-native-experience
 
-List of tutorial RN: https://github.com/hayanisaid/React-Native-developer-roadmap
-- ✅ Javascript code: https://reactnative.dev/docs/javascript-environment
+List of tutorial RN
+- ✅ Javascript code
 - ✅ Javascript jsdoc: https://jsdoc.app/tags-param.html
-- ✅ State and life cycle: https://github.com/huongnguyenvan/react-native
-- ✅ Function component, class component: https://viblo.asia/p/react-js-hieu-ve-functional-va-class-components-Qbq5QpkRlD8
+- ✅ State and life cycle
+- ✅ Function component, class component
 - ✅ UI
     - ✅ Base components: View, Text, TextInput, Button,...
     - ✅ Hook
-        - ✅ Basic hook: useState, useEffect, useCallback, useMemo, useContext, useRef: https://reactjs.org/docs/hooks-reference.html
+        - ✅ Basic hook: useState, useEffect, useCallback, useMemo, useContext, useRef
         - ✅ Lib hook: useSelector, useTranslation,...
         - ✅ Custom hook: https://reactjs.org/docs/hooks-custom.html
     - ✅ Design
@@ -40,7 +40,7 @@ List of tutorial RN: https://github.com/hayanisaid/React-Native-developer-roadma
     - ✅ Analytics
     - ✅ Crashlytics
     - ✅ Notification
-    - [-] Deep Linking/Dynamic Link: Cần phải có website
+    - ⛔️ Deep Linking/Dynamic Link: Cần phải có website
 - ✅ Google maps
 - ⛔️ Native Modules
     - ✅ iOS
