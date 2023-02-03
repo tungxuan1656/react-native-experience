@@ -39,8 +39,9 @@ List of tutorial RN
     - ✅ Remote Config
     - ✅ Analytics
     - ✅ Crashlytics
-    - ✅ Notification
-    - ⛔️ Deep Linking/Dynamic Link: Cần phải có website
+    - ✅ Notification/FCM
+    - ✅ Realtime Database/Firestore Database
+    - ✅ Deep Linking/Dynamic Link: Cần phải có website
 - ✅ Google maps
 - ⛔️ Native Modules
     - ✅ iOS
@@ -58,10 +59,6 @@ List of tutorial RN
 - ✅ Deploy and publishing
     - ✅ AppStore
     - ✅ Google Play
-- ⛔️ ADVANCE
-  - ⛔️ Device Sensor
-  - ⛔️ Widget
-  - ⛔️ AI
-      - ⛔️ Coreml - native
-      - ⛔️ Tflite
-      - ⛔️ Tensorflow javascript
+- ✅ ADVANCE
+  - ✅ AI
+      - ✅ Coreml - native iOS
